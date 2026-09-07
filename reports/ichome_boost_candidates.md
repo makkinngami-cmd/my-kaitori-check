@@ -1,6 +1,6 @@
 # 買取一丁目 買取強化中 新規候補レポート
 
-更新日: 2026-08-31
+更新日: 2026-09-07
 
 買取一丁目が「買取強化中」に出している商品のうち、せどりナビ未登録のものを抽出。
 買取強化中は値上げ・利ざやが出やすい注目商品。
@@ -14,10 +14,10 @@
 
 ## サマリー
 
-- 強化中の取得件数: 533
-- 既存登録済み: 153
-- 未登録の新規候補: 380
-- 優先度別: S=64 / A=39 / B=172 / C=105
+- 強化中の取得件数: 529
+- 既存登録済み: 155
+- 未登録の新規候補: 374
+- 優先度別: S=64 / A=39 / B=172 / C=99
 
 ## 新規候補（強化中・未登録 / 優先度順）
 
@@ -68,14 +68,14 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | S | スマートフォン | iPhone 16 Plus 256GB ピンク | 4549995525717 | 105000 |
 | S | スマートフォン | iPhone 16 Plus 256GB ブラック | 4549995525618 | 105000 |
 | S | スマートフォン | iPhone 16 Plus 256GB ホワイト | 4549995525663 | 105000 |
-| S | スマートフォン | iPhone 17e 512GB ソフトピンク | 4549995677737 | 100000 |
-| S | スマートフォン | iPhone 17e 512GB ブラック | 4549995677638 | 100000 |
-| S | スマートフォン | iPhone 17e 512GB ホワイト | 4549995677683 | 100000 |
 | S | スマートフォン | iPhone 16 256GB ウルトラマリン | 4549995539127 | 99000 |
 | S | スマートフォン | iPhone 16 256GB ティール | 4549995539134 | 99000 |
 | S | スマートフォン | iPhone 16 256GB ピンク | 4549995539110 | 99000 |
 | S | スマートフォン | iPhone 16 256GB ブラック | 4549995539097 | 99000 |
 | S | スマートフォン | iPhone 16 256GB ホワイト | 4549995539103 | 99000 |
+| S | スマートフォン | iPhone 17e 512GB ソフトピンク | 4549995677737 | 98000 |
+| S | スマートフォン | iPhone 17e 512GB ブラック | 4549995677638 | 98000 |
+| S | スマートフォン | iPhone 17e 512GB ホワイト | 4549995677683 | 98000 |
 | S | スマートフォン | iPhone 16 128GB ウルトラマリン | 4549995539073 | 95000 |
 | S | スマートフォン | iPhone 16 128GB ティール | 4549995539080 | 95000 |
 | S | スマートフォン | iPhone 16 128GB ピンク | 4549995539066 | 95000 |
@@ -86,33 +86,33 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | S | スマートフォン | iPhone 16 Plus 128GB ピンク | 4549995525465 | 94000 |
 | S | スマートフォン | iPhone 16 Plus 128GB ブラック | 4549995525366 | 94000 |
 | S | スマートフォン | iPhone 16 Plus 128GB ホワイト | 4549995525410 | 94000 |
-| S | スマートフォン | iPhone 17e 256GB ソフトピンク | 4549995677584 | 81500 |
-| S | スマートフォン | iPhone 17e 256GB ブラック | 4549995677485 | 81500 |
-| S | スマートフォン | iPhone 17e 256GB ホワイト | 4549995677539 | 81500 |
-| A | スマートフォン | iPhone Air 1TB クラウドホワイト | 4549995647594 | 144000 |
-| A | スマートフォン | iPhone Air 1TB スカイブルー | 4549995647617 | 144000 |
-| A | スマートフォン | iPhone Air 1TB スペースブラック | 4549995647587 | 144000 |
-| A | スマートフォン | iPhone Air 1TB ライトゴールド | 4549995647600 | 144000 |
-| A | スマートフォン | iPhone Air 512GB クラウドホワイト | 4549995647556 | 134000 |
-| A | スマートフォン | iPhone Air 512GB スカイブルー | 4549995647570 | 134000 |
-| A | スマートフォン | iPhone Air 512GB スペースブラック | 4549995647549 | 134000 |
-| A | スマートフォン | iPhone Air 512GB ライトゴールド | 4549995647563 | 134000 |
-| A | スマートフォン | iPhone Air 256GB クラウドホワイト | 4549995647518 | 117000 |
-| A | スマートフォン | iPhone Air 256GB スカイブルー | 4549995647532 | 117000 |
-| A | スマートフォン | iPhone Air 256GB スペースブラック | 4549995647501 | 117000 |
-| A | スマートフォン | iPhone Air 256GB ライトゴールド | 4549995647525 | 117000 |
+| S | スマートフォン | iPhone 17e 256GB ソフトピンク | 4549995677584 | 80000 |
+| S | スマートフォン | iPhone 17e 256GB ブラック | 4549995677485 | 80000 |
+| S | スマートフォン | iPhone 17e 256GB ホワイト | 4549995677539 | 80000 |
+| A | スマートフォン | iPhone Air 1TB クラウドホワイト | 4549995647594 | 142000 |
+| A | スマートフォン | iPhone Air 1TB スカイブルー | 4549995647617 | 142000 |
+| A | スマートフォン | iPhone Air 1TB スペースブラック | 4549995647587 | 142000 |
+| A | スマートフォン | iPhone Air 1TB ライトゴールド | 4549995647600 | 142000 |
+| A | スマートフォン | iPhone Air 512GB クラウドホワイト | 4549995647556 | 132000 |
+| A | スマートフォン | iPhone Air 512GB スカイブルー | 4549995647570 | 132000 |
+| A | スマートフォン | iPhone Air 512GB スペースブラック | 4549995647549 | 132000 |
+| A | スマートフォン | iPhone Air 512GB ライトゴールド | 4549995647563 | 132000 |
+| A | スマートフォン | iPhone Air 256GB クラウドホワイト | 4549995647518 | 115000 |
+| A | スマートフォン | iPhone Air 256GB スカイブルー | 4549995647532 | 115000 |
+| A | スマートフォン | iPhone Air 256GB スペースブラック | 4549995647501 | 115000 |
+| A | スマートフォン | iPhone Air 256GB ライトゴールド | 4549995647525 | 115000 |
 | A | スマートフォン | Google Pixel 10 128GB Frost |  | 89000 |
 | A | スマートフォン | Google Pixel 10 128GB Indigo |  | 89000 |
 | A | スマートフォン | Google Pixel 10 128GB Lemongrass |  | 89000 |
 | A | スマートフォン | Google Pixel 10 128GB Obsidian |  | 89000 |
 | A | スマートフォン | iPhone 16e 512GB ブラック | 4549995559033 | 85000 |
 | A | スマートフォン | iPhone 16e 512GB ホワイト | 4549995559040 | 85000 |
-| A | スマートフォン | Google Pixel 10a 256GB Fog |  | 80000 |
-| A | スマートフォン | Google Pixel 10a 256GB Isai Blue |  | 80000 |
-| A | スマートフォン | Google Pixel 10a 256GB Lavender |  | 80000 |
-| A | スマートフォン | Google Pixel 10a 256GB Obsidian |  | 80000 |
 | A | スマートフォン | iPhone 16e 256GB ブラック | 4549995559019 | 75000 |
 | A | スマートフォン | iPhone 16e 256GB ホワイト | 4549995559026 | 75000 |
+| A | スマートフォン | Google Pixel 10a 256GB Fog |  | 72000 |
+| A | スマートフォン | Google Pixel 10a 256GB Isai Blue |  | 72000 |
+| A | スマートフォン | Google Pixel 10a 256GB Lavender |  | 72000 |
+| A | スマートフォン | Google Pixel 10a 256GB Obsidian |  | 72000 |
 | A | スマートフォン | iPhone 16e 128GB ブラック | 4549995558999 | 70000 |
 | A | スマートフォン | iPhone 16e 128GB ホワイト | 4549995559002 | 70000 |
 | A | スマートフォン | Google Pixel 9a 256GB Iris |  | 68500 |
@@ -160,18 +160,14 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | B | その他 | AirPods Max（USB-C）パープル MWW83ZA/A | 4549995552126 | 84800 |
 | B | その他 | AirPods Max（USB-C）ブルー MWW63ZA/A | 4549995552102 | 84800 |
 | B | その他 | AirPods Max（USB-C）ミッドナイト MWW43ZA/A | 4549995552089 | 84800 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Matte Black / Obsidian | 0840353962217 | 59500 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Polished Silver / Fog | 0840353962255 | 59500 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Satin Pyrite / Olive | 0840353962170 | 59500 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Matte Black / Obsidian | 0840353962217 | 59000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Polished Silver / Fog | 0840353962255 | 59000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 45mm Satin Pyrite / Olive | 0840353962170 | 59000 |
 | B | その他 | ザ・マッカラン18年 700ml | 5010719187003 | 57200 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 256GB イエロー【MD4J4J/A】 | 4549995560138 | 55000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 256GB シルバー【MD4G4J/A】 | 4549995560114 | 55000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 256GB ピンク【MD4P4J/A】 | 4549995560145 | 55000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 256GB ブルー【MD4H4J/A】 | 4549995560121 | 55000 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Champagne Gold / Canyon | 0840353962057 | 55000 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Matte Black / Obsidian | 0840353962095 | 55000 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Polished Silver / Fog | 0840353962132 | 55000 |
-| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Satin Pyrite / Olive | 0840353961920 | 55000 |
 | B | その他 | サントリーウイスキー響21年 700ml | 4901777040427 | 55000 |
 | B | その他 | Apple Watch Series 11 GPS 46mm アルミニウムケース シルバー M/L 【MEVA4J/A】 | 4549995623147 | 54000 |
 | B | その他 | Apple Watch Series 11 GPS 46mm アルミニウムケース シルバー S/M 【MEV94J/A】 | 4549995623123 | 54000 |
@@ -201,8 +197,11 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | B | その他 | Apple Watch Series 11 GPS+Cellular 46mm ナチュラル チタニウムケース ストーングレイ スポーツバンド S/M 【MFCW4J/A】 | 4549995626872 | 54000 |
 | B | その他 | Apple Watch Series 11 GPS+Cellular 46mm ナチュラル チタニウムケース ナチュラル ミラネーゼループ M/L 【MFD04J/A】 | 4549995626933 | 54000 |
 | B | その他 | Apple Watch Series 11 GPS+Cellular 46mm ナチュラル チタニウムケース ナチュラル ミラネーゼループ S/M 【MFCY4J/A】 | 4549995626919 | 54000 |
-| B | カメラ | OM SYSTEM Tough TG-7 [ブラック] | 4545350055974 | 51000 |
-| B | カメラ | OM SYSTEM Tough TG-7 [レッド] | 4545350055981 | 51000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Champagne Gold / Canyon | 0840353962057 | 52000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Matte Black / Obsidian | 0840353962095 | 52000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Polished Silver / Fog | 0840353962132 | 52000 |
+| B | その他 | Google Pixel Watch 5 Wi-Fiモデル 41mm Satin Pyrite / Olive | 0840353961920 | 52000 |
+| B | カメラ | OM SYSTEM Tough TG-7 [ブラック] | 4545350055974 | 50200 |
 | B | その他 | Apple Watch Series 11 GPS 42mm アルミニウムケース シルバー M/L 【MEU74J/A】 | 4549995622904 | 50000 |
 | B | その他 | Apple Watch Series 11 GPS 42mm アルミニウムケース シルバー S/M 【MEU64J/A】 | 4549995622881 | 50000 |
 | B | その他 | Apple Watch Series 11 GPS 42mm アルミニウムケース ジェットブラック M/L 【MEQU4J/A】 | 4549995622720 | 50000 |
@@ -228,72 +227,73 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | B | その他 | Apple Watch Series 11 GPS+Cellular 42mm ナチュラル チタニウムケース ストーングレイ スポーツバンド M/L 【MF8N4J/A】 | 4549995626094 | 50000 |
 | B | その他 | Apple Watch Series 11 GPS+Cellular 42mm ナチュラル チタニウムケース ストーングレイ スポーツバンド S/M 【MF8M4J/A】 | 4549995626070 | 50000 |
 | B | その他 | Apple Watch Series 11 GPS+Cellular 42mm ナチュラル チタニウムケース ナチュラル ミラネーゼループ S/M 【MF8P4J/A】 | 4549995626117 | 50000 |
+| B | カメラ | OM SYSTEM Tough TG-7 [レッド] | 4545350055981 | 50000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 128GB イエロー【MD4D4J/A】 | 4549995560091 | 45000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 128GB シルバー【MD3Y4J/A】 | 4549995560077 | 45000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 128GB ピンク【MD4E4J/A】 | 4549995560107 | 45000 |
 | B | その他 | 2025年 iPad 11インチ Wi-Fi 128GB ブルー【MD4A4J/A】 | 4549995560084 | 45000 |
 | B | カメラ | PENTAX WG-90 [ブルー] | 4549212306488 | 39500 |
 | B | カメラ | PENTAX WG-90 [ブラック] | 4549212306396 | 38800 |
-| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース スターライト M/L 【MEHJ4J/A】 | 4549995615456 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース スターライト S/M 【MEHG4J/A】 | 4549995615449 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース ミッドナイト M/L 【MEHQ4J/A】 | 4549995615487 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース ミッドナイト S/M 【MEHN4J/A】 | 4549995615470 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース スターライト M/L 【MEPF4J/A】 | 4549995619041 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース スターライト S/M 【MEPE4J/A】 | 4549995619003 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース ミッドナイト M/L 【MEPJ4J/A】 | 4549995619164 | 36500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース ミッドナイト S/M 【MEPH4J/A】 | 4549995619126 | 36500 |
-| B | その他 | New Amazon Kindle Colorsoft シグニチャーエディション 32GB | 0840414661905 | 35500 |
-| B | その他 | SONY WF-1000XM6 シルバー | 4548736171817 | 34000 |
-| B | その他 | SONY WF-1000XM6 ブラック | 4548736171763 | 34000 |
-| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース スターライト M/L 【MEH54J/A】 | 4549995615395 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース スターライト MHWK4ZA/A S/M 【MEH34J/A】 | 4549995615388 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース ミッドナイト M/L 【MEHC4J/A】 | 4549995615425 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース ミッドナイト S/M 【MEH94J/A】 | 4549995615418 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース スターライト M/L 【MEP74J/A】 | 4549995618808 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース スターライト S/M 【MEP64J/A】 | 4549995618761 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース ミッドナイト M/L 【MEPC4J/A】 | 4549995618921 | 33500 |
-| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース ミッドナイト S/M 【MEP94J/A】 | 4549995618884 | 33500 |
+| B | その他 | New Amazon Kindle Colorsoft シグニチャーエディション 32GB | 0840414661905 | 36000 |
+| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース スターライト M/L 【MEHJ4J/A】 | 4549995615456 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース スターライト S/M 【MEHG4J/A】 | 4549995615449 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース ミッドナイト M/L 【MEHQ4J/A】 | 4549995615487 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS 44mm アルミニウムケース ミッドナイト S/M 【MEHN4J/A】 | 4549995615470 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース スターライト M/L 【MEPF4J/A】 | 4549995619041 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース スターライト S/M 【MEPE4J/A】 | 4549995619003 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース ミッドナイト M/L 【MEPJ4J/A】 | 4549995619164 | 35000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 44mm アルミニウムケース ミッドナイト S/M 【MEPH4J/A】 | 4549995619126 | 35000 |
+| B | その他 | SONY WF-1000XM6 シルバー | 4548736171817 | 34500 |
+| B | その他 | SONY WF-1000XM6 ブラック | 4548736171763 | 34500 |
+| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース スターライト M/L 【MEH54J/A】 | 4549995615395 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース スターライト S/M 【MEH34J/A】 | 4549995615388 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース ミッドナイト M/L 【MEHC4J/A】 | 4549995615425 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS 40mm アルミニウムケース ミッドナイト S/M 【MEH94J/A】 | 4549995615418 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース スターライト M/L 【MEP74J/A】 | 4549995618808 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース スターライト S/M 【MEP64J/A】 | 4549995618761 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース ミッドナイト M/L 【MEPC4J/A】 | 4549995618921 | 34000 |
+| B | その他 | Apple Watch SE 3 GPS+Cellular 40mm アルミニウムケース ミッドナイト S/M 【MEP94J/A】 | 4549995618884 | 34000 |
 | B | その他 | AirPods 4 MXP93J/A 【アクティブノイズキャンセリング搭載】 | 4549995519921 | 29800 |
-| B | その他 | Technics EAH-AZ100-K | 4549980797280 | 29200 |
+| B | その他 | Technics EAH-AZ100-K | 4549980797280 | 29500 |
+| B | その他 | New Kindle Paperwhite シグニチャーエディション 32GB メタリックジェード(2024年) | 0840268918132 | 29400 |
+| B | その他 | Technics EAH-AZ100-S | 4549980797297 | 29300 |
 | B | その他 | AirPods Pro 第3世代 MFHP4J/A | 4549995635232 | 29000 |
-| B | その他 | New Kindle Paperwhite シグニチャーエディション 32GB メタリックジェード(2024年) | 0840268918132 | 29000 |
-| B | その他 | Technics EAH-AZ100-S | 4549980797297 | 29000 |
-| B | その他 | Technics EAH-AZ100-N | 4549980975312 | 28800 |
-| B | その他 | New Kindle Paperwhite シグニチャーエディション 32GB メタリックブラック(2024年) | 0840268929282 | 28500 |
-| B | その他 | New Amazon Kindle Colorsoft シグニチャーエディション 16GB | 0840414610231 | 27600 |
+| B | その他 | New Kindle Paperwhite シグニチャーエディション 32GB メタリックブラック(2024年) | 0840268929282 | 29000 |
+| B | その他 | Technics EAH-AZ100-N | 4549980975312 | 29000 |
+| B | その他 | New Amazon Kindle Colorsoft シグニチャーエディション 16GB | 0840414610231 | 28000 |
 | B | その他 | SONY WH-1000XM4 ブラック | 4548736112100 | 26000 |
 | B | その他 | Bose Quietcomfort Ultra Earbuds 第2世代 ミッドナイトバイオレット | 4969929261151 | 24000 |
 | B | カメラ | Panasonic ジェットウォッシャー ナノクレンズ ドルツ EW-NJ80-W | 4549980755402 | 24000 |
+| B | その他 | New Kindle Paperwhite 16GB ブラック(2024年) | 0840268942847 | 23500 |
 | B | その他 | Bose Quietcomfort Ultra Earbuds 第2世代 ディーププラム | 4969929261137 | 23000 |
 | B | その他 | Bose Quietcomfort Ultra Earbuds 第2世代 デザートゴールド | 4969929261144 | 23000 |
 | B | その他 | Bose Quietcomfort Ultra Earbuds 第2世代 ブラック | 4969929261113 | 23000 |
 | B | その他 | Bose Quietcomfort Ultra Earbuds 第2世代 ホワイトスモーク | 4969929261120 | 23000 |
 | B | その他 | SONY WF-1000XM5 ブラック | 4548736143470 | 22800 |
-| B | その他 | New Kindle Paperwhite 16GB ブラック(2024年) | 0840268942847 | 22700 |
 | B | その他 | AirPods 4 MXP63J/A | 4549995519860 | 21800 |
 | B | その他 | SONY WF-1000XM5 プラチナシルバー | 4548736143531 | 20000 |
 | B | カメラ | instax SQUARE SQ40 チェキスクエア [ブラック] | 4547410511178 | 20000 |
-| B | その他 | Bose Ultra Open Earbuds BLK ULTRAOPENEBBLK | 4969929259240 | 18500 |
-| B | その他 | Bose Ultra Open Earbuds WHT ULTRAOPENEBWHT | 4969929259257 | 18500 |
-| B | その他 | New Kindle 16GB マッチャ(2024年) | 0840414673731 | 17600 |
-| B | その他 | Technics EAH-AZ80-K ブラック | 4549980651889 | 17500 |
-| B | その他 | Technics EAH-AZ80-S シルバー | 4549980651896 | 17500 |
+| B | その他 | Bose Ultra Open Earbuds BLK ULTRAOPENEBBLK | 4969929259240 | 18000 |
+| B | その他 | New Kindle 16GB マッチャ(2024年) | 0840414673731 | 17700 |
 | B | その他 | Bose Ultra Open Earbuds Moonstone Blue | 4969929260321 | 17000 |
-| B | その他 | New Kindle 16GB ブラック(2024年) | 0840414617858 | 16500 |
+| B | その他 | Bose Ultra Open Earbuds WHT ULTRAOPENEBWHT | 4969929259257 | 17000 |
+| B | その他 | New Kindle 16GB ブラック(2024年) | 0840414617858 | 17000 |
 | B | その他 | サントリーシングルモルトウイスキー 山崎12年 700ml | 4901777188914 | 16500 |
 | B | その他 | サントリーシングルモルトウイスキー 白州12年 700ml | 4901777360440 | 16500 |
+| B | その他 | Technics EAH-AZ80-S シルバー | 4549980651896 | 16000 |
 | B | その他 | Bose QuietComfort Ultra Earbuds Black QCULTRAEARBUDSBLK | 4969929259165 | 14000 |
 | B | その他 | ザ・マッカラン12年 700ml | 5010314017408 | 13750 |
 | B | その他 | Bose QuietComfort Ultra Earbuds Moon Stone Blue QCULTRAEARBUDSMSN | 4969929259530 | 13000 |
 | B | その他 | Bose QuietComfort Ultra Earbuds White Smoke QCULTRAEARBUDSWHT | 4969929259172 | 13000 |
+| B | その他 | Technics EAH-AZ80-K ブラック | 4549980651889 | 13000 |
 | B | カメラ | CANON EF-EOSR | 4549292115703 | 12500 |
 | B | カメラ | instax mini 41 チェキ | 4547410545173 | 12300 |
+| B | その他 | Bose QuietComfort Ultra Earbuds LUNAR BLUE | 4969929260208 | 12000 |
 | B | その他 | サントリーウイスキー 響 BLENDER’S CHOICE 700ml | 4901777321632 | 12000 |
 | B | カメラ | instax mini 12 チェキ [グリーン] | 4547410489132 | 11000 |
 | B | カメラ | instax mini 12 チェキ [パープル] | 4547410489156 | 11000 |
 | B | カメラ | instax mini 12 チェキ [ブルー] | 4547410489118 | 11000 |
 | B | カメラ | instax mini 12 チェキ [ホワイト] | 4547410489149 | 11000 |
-| B | その他 | Bose QuietComfort Ultra Earbuds LUNAR BLUE | 4969929260208 | 10000 |
 | B | その他 | サントリーシングルモルトウイスキー 山崎 700ml | 4901777233812 | 7700 |
 | B | その他 | サントリーシングルモルトウイスキー 白州 700ml | 4901777233911 | 7700 |
 | B | その他 | サントリーウイスキー 響 JAPANESE HARMONY 700ml | 4901777270688 | 7500 |
@@ -302,38 +302,38 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | B | その他 | サントリーシングルモルトウイスキー 白州 180ml | 4901777237896 | 2145 |
 | C | ゲーム | Steam Machine 2TB + Steam Controller | 0814585023527 | 264980 |
 | C | その他 | Steam Machine 2TB | 0814585023503 | 249980 |
-| C | スマートフォン | Google Pixel 11 Pro Fold 512GB Obsidian |  | 243000 |
-| C | スマートフォン | Google Pixel 11 Pro Fold 256GB Obsidian |  | 224000 |
-| C | スマートフォン | Google Pixel 11 Pro Fold 256GB Olive |  | 224000 |
+| C | スマートフォン | Google Pixel 11 Pro Fold 512GB Obsidian |  | 238500 |
+| C | スマートフォン | Google Pixel 11 Pro Fold 256GB Obsidian |  | 216000 |
+| C | スマートフォン | Google Pixel 11 Pro Fold 256GB Olive |  | 216000 |
 | C | ゲーム | Steam Machine 512GB + Steam Controller | 0814585023497 | 204980 |
-| C | スマートフォン | Google Pixel 11 Pro XL 512GB Canyon |  | 175000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 512GB Fog |  | 175000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 512GB Obsidian（Matte） |  | 175000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 512GB Olive |  | 175000 |
+| C | スマートフォン | Google Pixel 11 Pro XL 512GB Canyon |  | 171500 |
+| C | スマートフォン | Google Pixel 11 Pro XL 512GB Fog |  | 171500 |
+| C | スマートフォン | Google Pixel 11 Pro XL 512GB Obsidian（Matte） |  | 171500 |
+| C | スマートフォン | Google Pixel 11 Pro XL 512GB Olive |  | 171500 |
 | C | スマートフォン | Google Pixel 11 Pro 512GB Canyon |  | 158500 |
 | C | スマートフォン | Google Pixel 11 Pro 512GB Fog |  | 158500 |
 | C | スマートフォン | Google Pixel 11 Pro 512GB Obsidian（Matte） |  | 158500 |
 | C | スマートフォン | Google Pixel 11 Pro 512GB Olive |  | 158500 |
-| C | スマートフォン | Google Pixel 11 Pro XL 256GB Canyon |  | 153000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 256GB Fog |  | 153000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 256GB Obsidian（Matte） |  | 153000 |
-| C | スマートフォン | Google Pixel 11 Pro XL 256GB Olive |  | 153000 |
-| C | スマートフォン | Google Pixel 11 Pro 256GB Canyon |  | 138500 |
-| C | スマートフォン | Google Pixel 11 Pro 256GB Fog |  | 138500 |
-| C | スマートフォン | Google Pixel 11 Pro 256GB Obsidian（Matte） |  | 138500 |
-| C | スマートフォン | Google Pixel 11 Pro 256GB Olive |  | 138500 |
-| C | スマートフォン | Google Pixel 11 512GB Frost |  | 124000 |
-| C | スマートフォン | Google Pixel 11 512GB Hibiscus |  | 124000 |
-| C | スマートフォン | Google Pixel 11 512GB Obsidian |  | 124000 |
-| C | スマートフォン | Google Pixel 11 512GB Pistachio |  | 124000 |
-| C | スマートフォン | Google Pixel 11 256GB Frost |  | 101500 |
-| C | スマートフォン | Google Pixel 11 256GB Hibiscus |  | 101500 |
-| C | スマートフォン | Google Pixel 11 256GB Obsidian |  | 101500 |
-| C | スマートフォン | Google Pixel 11 256GB Pistachio |  | 101500 |
-| C | その他 | Panasonic パナソニック 光エステ スムースエピ パワー&クール ES-WG0B-H グレー | 4549980872321 | 98000 |
+| C | スマートフォン | Google Pixel 11 Pro XL 256GB Canyon |  | 146000 |
+| C | スマートフォン | Google Pixel 11 Pro XL 256GB Fog |  | 146000 |
+| C | スマートフォン | Google Pixel 11 Pro XL 256GB Obsidian（Matte） |  | 146000 |
+| C | スマートフォン | Google Pixel 11 Pro XL 256GB Olive |  | 146000 |
+| C | スマートフォン | Google Pixel 11 Pro 256GB Canyon |  | 137500 |
+| C | スマートフォン | Google Pixel 11 Pro 256GB Fog |  | 137500 |
+| C | スマートフォン | Google Pixel 11 Pro 256GB Obsidian（Matte） |  | 137500 |
+| C | スマートフォン | Google Pixel 11 Pro 256GB Olive |  | 137500 |
+| C | スマートフォン | Google Pixel 11 512GB Frost |  | 113000 |
+| C | スマートフォン | Google Pixel 11 512GB Hibiscus |  | 113000 |
+| C | スマートフォン | Google Pixel 11 512GB Obsidian |  | 113000 |
+| C | スマートフォン | Google Pixel 11 512GB Pistachio |  | 113000 |
+| C | その他 | Panasonic パナソニック 光エステ スムースエピ パワー&クール ES-WG0B-H グレー | 4549980872321 | 96500 |
+| C | スマートフォン | Google Pixel 11 256GB Frost |  | 96000 |
+| C | スマートフォン | Google Pixel 11 256GB Hibiscus |  | 96000 |
+| C | スマートフォン | Google Pixel 11 256GB Obsidian |  | 96000 |
+| C | スマートフォン | Google Pixel 11 256GB Pistachio |  | 96000 |
 | C | その他 | Panasonic ナノケア アルティメイト EH-NC80-T [オーセンティックブラウン] | 4549980767948 | 66000 |
 | C | その他 | Starlink V4 2534013 | 0850049670180 | 55000 |
-| C | その他 | Panasonic ラムダッシュPRO ES-L690U-K [クラフトブラック] | 4549980852361 | 54200 |
+| C | その他 | Panasonic ラムダッシュPRO ES-L690U-K [クラフトブラック] | 4549980852361 | 54700 |
 | C | その他 | Apple HomePod 第2世代（本体）ホワイト MDEY4J/A | 4549995566178 | 42000 |
 | C | その他 | Apple HomePod 第2世代（本体）ミッドナイト MDEW4J/A | 4549995566161 | 42000 |
 | C | その他 | Panasonic ナノケア EH-NA0K-H [ミストグレー] | 4549980975046 | 38610 |
@@ -341,42 +341,36 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | C | その他 | Panasonic ナノケア EH-NA0K-P [さくらピンク] | 4549980975039 | 38610 |
 | C | その他 | デジタルカメラ RICOH WG-80 [オレンジ] | 4549212304415 | 35000 |
 | C | その他 | デジタルカメラ RICOH WG-80 [ブラック] | 4549212304378 | 34900 |
-| C | その他 | Microsoft Office Home & Business 2024(最新 永続版)\|カード版\| パッケージ版 EP2-06791 | 4549576249797 | 33200 |
+| C | その他 | Microsoft Office Home & Business 2024(最新 永続版)\|カード版\| パッケージ版 EP2-06791 | 4549576249797 | 33300 |
 | C | その他 | 掃除機Dyson V12 Detect Slim Fluffy SV46 FF | 5025155106518 | 32000 |
-| C | その他 | Microsoft Office Home 2024(最新 永続版)\|カード版 EP2-08632 | 4549576250618 | 30500 |
+| C | その他 | Microsoft Office Home 2024(最新 永続版)\|カード版 EP2-08632 | 4549576250618 | 31000 |
 | C | その他 | PHILIPS 電気シェーバー S9000プレステージ SP9886/36 アドリアブルー | 8720689025188 | 30000 |
 | C | その他 | Panasonic 美顔器 バイタリフト かっさ EH-SP86-K [ブラック] | 4549980878866 | 29000 |
-| C | その他 | Panasonic ES-PV6A-K [マーブルブラック] | 4549980711989 | 28000 |
-| C | その他 | Panasonic ES-PV6A-W [マーブルホワイト] | 4549980711972 | 27500 |
-| C | その他 | Panasonic ラムダッシュ パームイン 5枚刃 ES-P530U-K | 4550719178447 | 27000 |
+| C | その他 | Panasonic ES-PV6A-K [マーブルブラック] | 4549980711989 | 28300 |
+| C | その他 | Panasonic ES-PV6A-W [マーブルホワイト] | 4549980711972 | 28200 |
 | C | その他 | ◆ゴルフ用レーザー距離計 COOLSHOT LITE STABILIZED | 4580130921230 | 24800 |
+| C | その他 | Panasonic ES-PV3A-K マットブラック | 4549980711996 | 24500 |
 | C | その他 | Panasonic ファインバブルシャワーヘッド EH-SH50-S シルバー | 4550719001509 | 24500 |
 | C | その他 | Panasonic ファインバブルシャワーヘッド EH-SH50-W ホワイト | 4550719001493 | 24500 |
-| C | その他 | Panasonic ES-PV3A-K マットブラック | 4549980711996 | 24300 |
 | C | ゲーム | Nintendo Switch Lite コーラル あつまれ どうぶつの森セット | 4902370551471 | 22980 |
 | C | ゲーム | Nintendo Switch Lite ターコイズ あつまれ どうぶつの森セット | 4902370551457 | 22980 |
 | C | ゲーム | Nintendo Switch Lite ハイラルエディション | 4902370552232 | 22980 |
-| C | その他 | SONY ネッククーラー REON POCKET PRO Plus センシングキット RNPK-P1PT | 4548736180499 | 20000 |
-| C | その他 | HUAWEI FreeClip 2 ブラック | 6942103169434 | 19500 |
-| C | その他 | HUAWEI FreeClip 2 ブルー | 6942103169458 | 19500 |
-| C | その他 | HUAWEI FreeClip 2 ホワイト | 6942103169441 | 19500 |
-| C | その他 | HUAWEI FreeClip 2 ローズゴールド | 6942103178733 | 19500 |
+| C | その他 | HUAWEI FreeClip 2 ブラック | 6942103169434 | 19300 |
+| C | その他 | HUAWEI FreeClip 2 ブルー | 6942103169458 | 19300 |
+| C | その他 | HUAWEI FreeClip 2 ホワイト | 6942103169441 | 19300 |
+| C | その他 | HUAWEI FreeClip 2 ローズゴールド | 6942103178733 | 19300 |
+| C | その他 | Panasonic ラムダッシュ PRO ES-L551U-S チタンシルバー | 4549980979976 | 17800 |
 | C | ゲーム | Steam Controller コントローラー | 0814585022803 | 17800 |
-| C | その他 | Panasonic ラムダッシュ PRO ES-L551D-K マットブラック | 4549980979983 | 17200 |
-| C | その他 | Panasonic ラムダッシュ PRO ES-L551U-S チタンシルバー | 4549980979976 | 17200 |
+| C | その他 | Panasonic ラムダッシュ PRO ES-L551D-K マットブラック | 4549980979983 | 17500 |
 | C | その他 | ZDR035 | 4952040150237 | 17100 |
 | C | その他 | パイオニア 車載用Wi-Fiルーター カロッツェリア DCT-WR100D | 4988028479748 | 16800 |
 | C | その他 | Panasonic パナソニック 全自動コーヒーメーカー NC-A58-K ブラック | 4549980869505 | 16200 |
 | C | その他 | Panasonic パナソニック 全自動コーヒーメーカー NC-A58-W ホワイト | 4550719164655 | 16000 |
-| C | その他 | SONY ネッククーラー REON POCKET PRO RNPK-P1T センシングキット | 4548736171442 | 16000 |
-| C | その他 | SONY ネッククーラー REON POCKET PRO RNPK-P1 | 4548736171435 | 15000 |
 | C | その他 | ZDR036 | 4952040150367 | 14500 |
 | C | その他 | ジェットウォッシャー ドルツ EW-DJ55 | 4549980652640 | 14000 |
-| C | その他 | Panasonic パナソニック ヘアードライヤー EH-NE8N-H モダングレー | 4549980973974 | 12500 |
-| C | その他 | Panasonic パナソニック ヘアードライヤー EH-NE8N-W モダンホワイト | 4549980973981 | 12500 |
-| C | その他 | SONY (ソニー) REON POCKET 5 RNPK-5T [ホワイト] | 4548736162532 | 12500 |
+| C | その他 | Panasonic パナソニック ヘアードライヤー EH-NE8N-H モダングレー | 4549980973974 | 12200 |
+| C | その他 | Panasonic パナソニック ヘアードライヤー EH-NE8N-W モダンホワイト | 4549980973981 | 12200 |
 | C | その他 | AirTag (第2世代) (4パック) MFEA4ZP/A | 4549995682588 | 12000 |
-| C | その他 | SONY (ソニー) REON POCKET 5 RNPK-5 [ホワイト] | 4548736162525 | 12000 |
 | C | その他 | Echo Spot（2024年発売）- オーシャンブルー | 0840268912925 | 11480 |
 | C | その他 | Echo Spot（2024年発売）- グレーシャーホワイト | 0840268981846 | 11480 |
 | C | その他 | Echo Spot（2024年発売）- ブラック | 0840268931865 | 11480 |
@@ -387,10 +381,10 @@ CSV全件: `reports/ichome_boost_candidates.csv`
 | C | その他 | Echo Dot Max 2025年発売 グレーシャーホワイト | 0840414647961 | 9000 |
 | C | その他 | BUFFALO バッファロー Wi-Fi中継機 WEX-5400AX6 | 4981254061305 | 8900 |
 | C | その他 | SONY GP-VPT2BT ブラック | 4548736109520 | 8800 |
+| C | その他 | PHILIPS 電気シェーバー 5000Xシリーズ X5012／05 | 8720689012317 | 7600 |
 | C | その他 | Echo Dot (エコードット) 第5世代 - グレーシャーホワイト | 0840080512204 | 7480 |
 | C | その他 | Echo Dot (エコードット) 第5世代 -チャコール | 0840080592077 | 7480 |
 | C | その他 | Echo Dot (エコードット) 第5世代 -ディープシーブルー | 0840080586786 | 7480 |
-| C | その他 | PHILIPS 電気シェーバー 5000Xシリーズ X5012／05 | 8720689012317 | 7300 |
 | C | その他 | Fire TV Stick HDB0DVJ64ZLT 26年 840414695122 |  | 6980 |
 | C | その他 | 【26】Fire TV Stick HD B0G3YCRJKX 840414639447 |  | 6980 |
 | C | その他 | IG-NX15-B ブラック系 | 4974019176062 | 6500 |
